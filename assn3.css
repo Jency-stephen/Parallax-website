@@ -8,30 +8,31 @@
     background-attachment:fixed;
   }
   .Parallax1{
-    background-image:url(https://t3.ftcdn.net/jpg/02/55/42/50/360_F_255425068_CyDrGsVcu1Bl2SdJ2yXx35Rlp8jyNCCQ.jpg);
+    background-image:url(https://jaffadh.nl/wp-content/uploads/2021/02/turkse-pizza.jpg);
   }
   .Parallax2{
-    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO_J_YWlNJDTf_rYiVv-Q-tv44tsJcYjFWHw&usqp=CAU);
+    background-image:url(https://b.zmtcdn.com/data/pictures/chains/3/19352013/aebc0d18901b9c58b1d618a708f6aac5.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,);
   }
   .Parallax3{
-    background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Pav_Bhaji.jpg/330px-Pav_Bhaji.jpg);
+    background-image:url(https://static.toiimg.com/thumb/80287813.cms?resizemode=4&width=1200);
   }
   .Parallax4{
-    background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ras_Malai_2.JPG/330px-Ras_Malai_2.JPG);    
+    background-image:url(https://i0.wp.com/rasoimenu.com/wp-content/uploads/2015/07/Dates-Rasmalai-Recipe.jpg?fit=1920%2C1080&ssl=1);    
   }
   .Parallax5{
-    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI_bHGMPgBQMkmuDMbYIs06TCjnCqy1K4qX24XQsx3rMvdP0FWwtpJGlNQ6XqCwMUAQq0&usqp=CAU);    
-  }
+    background-image:url(https://envato-shoebox-0.imgix.net/34f8/45f6-47dc-47cf-8948-bc48dbdc1703/pasta4_b294.jpg?auto=compress%2Cformat&fit=max&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&markalign=center%2Cmiddle&markalpha=18&w=1600&s=8f6721c92b0c3b45ad37553312f0832f);    
+}
   h1.head{
     text-align: center;
     text-transform: uppercase;
     font-size: 40px;
     background-color: lightgrey;
-    width: 500px;
+    width: 800px;
     padding: 10px;
     position: absolute;
-    top:15%;
-    margin-left: 32%;
+    top:7%;
+    margin-left: 22%;
+    letter-spacing: 15px;
   } 
 #sec1,#sec2,#sec3,#sec4{
     text-align:center;
@@ -46,11 +47,25 @@ h2.txt1,h2.txt2,h2.txt3,h2.txt4,h2.txt5{
     width:100%;
     text-align:center;
     color:#000;
-    font-size:35px;
+    font-size:45px;
     letter-spacing:8px;
     text-transform:uppercase;
 }
+h2.txt2,h2.txt5{
+  color:rgb(255, 255, 255);
+}
+h2.txt5{
+  position:absolute;
+  top:40%;
+  font-size:75px;
+  width:75%;
+}
+h2.txt1{
+  position: absolute;
+  top:20%;
+}
  body, html{
     font-family:"Verdana", sans-serif;   
+    margin:0px;
 }
   
