@@ -1,0 +1,56 @@
+.Parallax1,.Parallax2,.Parallax3,.Parallax4,.Parallax5{
+    height:700px;
+    position:relative;
+    opacity:0.80;
+    background-position:center;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+  }
+  .Parallax1{
+    background-image:url(https://t3.ftcdn.net/jpg/02/55/42/50/360_F_255425068_CyDrGsVcu1Bl2SdJ2yXx35Rlp8jyNCCQ.jpg);
+  }
+  .Parallax2{
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO_J_YWlNJDTf_rYiVv-Q-tv44tsJcYjFWHw&usqp=CAU);
+  }
+  .Parallax3{
+    background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Pav_Bhaji.jpg/330px-Pav_Bhaji.jpg);
+  }
+  .Parallax4{
+    background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ras_Malai_2.JPG/330px-Ras_Malai_2.JPG);    
+  }
+  .Parallax5{
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI_bHGMPgBQMkmuDMbYIs06TCjnCqy1K4qX24XQsx3rMvdP0FWwtpJGlNQ6XqCwMUAQq0&usqp=CAU);    
+  }
+  h1.head{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+    background-color: lightgrey;
+    width: 500px;
+    padding: 10px;
+    position: absolute;
+    top:15%;
+    margin-left: 32%;
+  } 
+#sec1,#sec2,#sec3,#sec4{
+    text-align:center;
+    padding:40px 50px;
+    background-color:#282e34;
+    color:#ddd;
+    line-height: 30px;
+  }
+h2.txt1,h2.txt2,h2.txt3,h2.txt4,h2.txt5{
+    position:absolute;
+    top:47%;
+    width:100%;
+    text-align:center;
+    color:#000;
+    font-size:35px;
+    letter-spacing:8px;
+    text-transform:uppercase;
+}
+ body, html{
+    font-family:"Verdana", sans-serif;   
+}
+  
